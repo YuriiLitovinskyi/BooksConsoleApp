@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books> 
+  <Book>
+    <Title>The Ugly Duckling</Title>
+    <Author>Andersen</Author>
+    <NumberOfPages>3400</NumberOfPages>
+  </Book>
+  <Book>
+    <Title>The Jungle Book</Title>
+    <Author>King</Author>
+    <NumberOfPages>5800</NumberOfPages>
+  </Book>
+   <Book>
+    <Title>The Little Mermaid</Title>
+    <Author>Andersen</Author>
+    <NumberOfPages>1200</NumberOfPages>
+  </Book>
+</Books>
